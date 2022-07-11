@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-test-todo/static/css/main.911b4285.css",
+    "main.js": "/react-test-todo/static/js/main.a7dba5eb.js",
+    "index.html": "/react-test-todo/index.html",
+    "main.911b4285.css.map": "/react-test-todo/static/css/main.911b4285.css.map",
+    "main.a7dba5eb.js.map": "/react-test-todo/static/js/main.a7dba5eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.911b4285.css",
+    "static/js/main.a7dba5eb.js"
+  ]
+}
